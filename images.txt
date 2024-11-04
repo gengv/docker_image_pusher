@@ -1,4 +1,1 @@
-nginx
-mysql:8.4
-phpmyadmin:5.2.1
-redis
+mysql:5.7
