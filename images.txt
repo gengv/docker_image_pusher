@@ -1,1 +1,1 @@
-mailserver:15.0.2
+mailserver/docker-mailserver
