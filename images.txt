@@ -1,2 +1,4 @@
-redis:6.2.20
-redis:8.2.2
+python:3.13.8
+phpmyadmin:5.2.3
+nginx:1.29.2
+postgres:17.6
