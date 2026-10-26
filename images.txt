@@ -1,2 +1,2 @@
-phpmyadmin:5.2.3-fpm
+phpmyadmin:5.2.3
 
