@@ -1,2 +1,2 @@
-phpmyadmin:fpm-alpine
+phpmyadmin:5.2.3-fpm-alpine
 
